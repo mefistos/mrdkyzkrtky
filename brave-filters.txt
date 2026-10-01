@@ -1,0 +1,8 @@
+! Title: Marů's Brave filters
+! Description: Personal cross-device Brave cosmetic filters
+! Maintainer: mefistos
+! Homepage: https://github.com/mefistos/mrdkyzkrtky
+! Expires: 1 hour
+!
+! ChatGPT
+! Add verified ChatGPT cosmetic rules below.
