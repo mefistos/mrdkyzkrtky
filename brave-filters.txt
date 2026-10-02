@@ -7,3 +7,11 @@
 ! ChatGPT
 ! Add verified ChatGPT cosmetic rules below.
 !
+
+!
+! nutsinbulk.ie
+! Broken cookie modal: hide it and undo its page scroll lock.
+www.nutsinbulk.ie###CookieModal
+www.nutsinbulk.ie##html:style(overflow: auto !important;)
+www.nutsinbulk.ie##body:style(overflow: auto !important;)
+
