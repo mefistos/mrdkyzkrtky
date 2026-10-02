@@ -11,6 +11,7 @@
 !
 ! nutsinbulk.ie
 ! Broken cookie modal: hide it and undo its page scroll lock.
+www.nutsinbulk.ie###CookieModal > .w-full.md\:w-\[640px\].mx-auto.bg-white.rounded.my-10.py-6.px-3.md\:p-6.flex.flex-col.relative
 www.nutsinbulk.ie###CookieModal
 www.nutsinbulk.ie##html:style(overflow: auto !important;)
 www.nutsinbulk.ie##body:style(overflow: auto !important;)
